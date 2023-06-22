@@ -1,0 +1,36 @@
+2023-06-22 16:18:11,445 :INFO : test_formSubmit :Name is Trevor
+2023-06-22 16:18:11,575 :INFO : test_formSubmit :Email is trevor@email.com
+2023-06-22 16:18:11,670 :INFO : test_formSubmit :Password is pass123
+2023-06-22 16:18:11,752 :INFO : test_formSubmit :Gender is Male
+2023-06-22 16:18:12,421 :INFO : test_formSubmit :Name is Brooke
+2023-06-22 16:18:12,421 :INFO : test_formSubmit :Name is Brooke
+2023-06-22 16:18:12,604 :INFO : test_formSubmit :Email is brooke@email.com
+2023-06-22 16:18:12,604 :INFO : test_formSubmit :Email is brooke@email.com
+2023-06-22 16:18:12,702 :INFO : test_formSubmit :Password is 123pass
+2023-06-22 16:18:12,702 :INFO : test_formSubmit :Password is 123pass
+2023-06-22 16:18:12,832 :INFO : test_formSubmit :Gender is Female
+2023-06-22 16:18:12,832 :INFO : test_formSubmit :Gender is Female
+2023-06-22 16:18:19,115 :INFO : test_e2e :Getting all card titles
+2023-06-22 16:18:19,182 :INFO : test_e2e :Matching product found: Blackberry
+2023-06-22 16:18:19,727 :INFO : test_e2e :Entering country name: Spain
+2023-06-22 16:28:40,644 :INFO : test_formSubmit :Name is Trevor
+2023-06-22 16:28:40,750 :INFO : test_formSubmit :Email is trevor@email.com
+2023-06-22 16:28:40,852 :INFO : test_formSubmit :Password is pass123
+2023-06-22 16:28:40,937 :INFO : test_formSubmit :Gender is Male
+2023-06-22 16:28:41,017 :INFO : test_formSubmit :Submitting form
+2023-06-22 16:28:41,164 :INFO : test_formSubmit :Asserting that "success" is in alert text
+2023-06-22 16:28:41,578 :INFO : test_formSubmit :Name is Brooke
+2023-06-22 16:28:41,578 :INFO : test_formSubmit :Name is Brooke
+2023-06-22 16:28:41,710 :INFO : test_formSubmit :Email is brooke@email.com
+2023-06-22 16:28:41,710 :INFO : test_formSubmit :Email is brooke@email.com
+2023-06-22 16:28:41,808 :INFO : test_formSubmit :Password is 123pass
+2023-06-22 16:28:41,808 :INFO : test_formSubmit :Password is 123pass
+2023-06-22 16:28:41,919 :INFO : test_formSubmit :Gender is Female
+2023-06-22 16:28:41,919 :INFO : test_formSubmit :Gender is Female
+2023-06-22 16:28:41,999 :INFO : test_formSubmit :Submitting form
+2023-06-22 16:28:41,999 :INFO : test_formSubmit :Submitting form
+2023-06-22 16:28:42,105 :INFO : test_formSubmit :Asserting that "success" is in alert text
+2023-06-22 16:28:42,105 :INFO : test_formSubmit :Asserting that "success" is in alert text
+2023-06-22 16:28:48,012 :INFO : test_e2e :Getting all card titles
+2023-06-22 16:28:48,074 :INFO : test_e2e :Matching product found: Blackberry
+2023-06-22 16:28:48,603 :INFO : test_e2e :Entering country name: Spain

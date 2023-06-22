@@ -1,3 +1,15 @@
 2023-06-22 16:10:22,383 :INFO : test_e2e :Getting all card titles
 2023-06-22 16:10:22,451 :INFO : test_e2e :Matching product found. Blackberry
 2023-06-22 16:10:22,983 :INFO : test_e2e :Entering country name: Spain
+2023-06-22 16:15:11,673 :INFO : test_formSubmit :Name is Trevor
+2023-06-22 16:15:11,772 :INFO : test_formSubmit :Email is trevor@email.com
+2023-06-22 16:15:11,852 :INFO : test_formSubmit :Password is pass123
+2023-06-22 16:15:11,929 :INFO : test_formSubmit :Gender is Male
+2023-06-22 16:15:12,572 :INFO : test_formSubmit :Name is Brooke
+2023-06-22 16:15:12,572 :INFO : test_formSubmit :Name is Brooke
+2023-06-22 16:15:12,662 :INFO : test_formSubmit :Email is brooke@emai.com
+2023-06-22 16:15:12,662 :INFO : test_formSubmit :Email is brooke@emai.com
+2023-06-22 16:15:12,737 :INFO : test_formSubmit :Password is 123pass
+2023-06-22 16:15:12,737 :INFO : test_formSubmit :Password is 123pass
+2023-06-22 16:15:12,836 :INFO : test_formSubmit :Gender is Female
+2023-06-22 16:15:12,836 :INFO : test_formSubmit :Gender is Female
